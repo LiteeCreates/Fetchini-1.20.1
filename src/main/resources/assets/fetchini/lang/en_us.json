@@ -7,5 +7,6 @@
   "block.fetchini.raw_sapphire_block": "Block of Raw Sapphire",
   "block.fetchini.sapphire_ore": "Sapphire Ore",
   "block.fetchini.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
-  "item.fetchini.metal_detector": "Metal Detector"
+  "item.fetchini.metal_detector": "Metal Detector",
+  "tooltip.fetchini.metal_detector": "This is an item that finds valuables for you underground in the given location. Does not detect coal ore (way too common)."
 }
