@@ -4,5 +4,8 @@
   "creativetab.fetchini_items_tab": "Fetchini Ingridients",
   "creativetab.fetchini_blocks_tab": "Fetchini",
   "block.fetchini.sapphire_block": "Block of Sapphire",
-  "block.fetchini.raw_sapphire_block": "Block of Raw Sapphire"
+  "block.fetchini.raw_sapphire_block": "Block of Raw Sapphire",
+  "block.fetchini.sapphire_ore": "Sapphire Ore",
+  "block.fetchini.deepslate_sapphire_ore": "Deepslate Sapphire Ore",
+  "item.fetchini.metal_detector": "Metal Detector"
 }
