@@ -1,0 +1,17 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "category": "misc",
+  "pattern": [
+    "###",
+    "###",
+    "###"
+  ],
+  "key": {
+    "#": {
+      "item": "fetchini:sapphire"
+    }
+  },
+  "result": {
+    "item": "fetchini:sapphire_block"
+  }
+}
