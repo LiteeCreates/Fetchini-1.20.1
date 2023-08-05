@@ -1,6 +1,7 @@
 package net.linearmatrix.fetchini;
 
 import com.mojang.logging.LogUtils;
+import net.linearmatrix.fetchini.block.ModBlocks;
 import net.linearmatrix.fetchini.item.ModCreativeModeTabs;
 import net.linearmatrix.fetchini.item.ModItems;
 import net.minecraft.world.item.CreativeModeTabs;
@@ -32,6 +33,7 @@ public class Fetchini
         IEventBus modEventBus = FMLJavaModLoadingContext.get().getModEventBus();
         ModCreativeModeTabs.register(modEventBus);
         ModItems.register(modEventBus);
+        ModBlocks.register(modEventBus);
         modEventBus.addListener(this::commonSetup);
 
         MinecraftForge.EVENT_BUS.register(this);
