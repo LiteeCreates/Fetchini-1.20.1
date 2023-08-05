@@ -1,0 +1,7 @@
+{
+  "variants": {
+    "": {
+      "model": "fetchini:block/sapphire_block"
+    }
+  }
+}

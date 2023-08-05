@@ -1,5 +1,8 @@
 {
   "item.fetchini.sapphire": "Sapphire",
   "item.fetchini.raw_sapphire": "Raw Sapphire",
-  "creativetab.fetchini_items_tab": "Fetchini Items"
+  "creativetab.fetchini_items_tab": "Fetchini Ingridients",
+  "creativetab.fetchini_blocks_tab": "Fetchini",
+  "block.fetchini.sapphire_block": "Block of Sapphire",
+  "block.fetchini.raw_sapphire_block": "Block of Raw Sapphire"
 }
